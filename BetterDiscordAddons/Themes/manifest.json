@@ -1,0 +1,10 @@
+{
+    "icon": "banners/userbg.png",
+    "name": "Alexis Modern",
+    "description": "Ported to Vizality by PhoenixAceVFX#6501",
+    "version": "21.10.08a",
+    "author": "Alexis | WyvernZu#0001",
+    "theme": "modern-discord.theme.css",
+    "consent": "false",
+    "license": "CC BY-NC-ND 4.0"
+}
